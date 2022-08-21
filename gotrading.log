@@ -118,3 +118,4 @@ ga('send', 'pageview');
 ", "lightning_ticker_BTC_USB"]
 2022/08/21 10:38:51 bitflyer.go:187: action=GetRealTimeTicker err=[0, "{"message":"Invalid Subscribe Key","error":true,"service":"Access Manager","status":400}
 ", "lightning_ticker_BTC_USB"]
+2022/08/21 12:34:27 bitflyer.go:212: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
